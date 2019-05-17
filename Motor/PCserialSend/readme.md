@@ -1,2 +1,3 @@
-﻿### About
-* 모터의 딜레이없이 전진 후진 멈춤
+﻿# About
+
+* 이 파일은 Processing 프로그램으로 구동되는 PC 용 프로그램입니다. Arduino의 Serial monitor 대신 사용하면 됩니다.
